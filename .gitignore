@@ -1,0 +1,7 @@
+# Added by cargo
+
+/target
+.vscode/
+.idea/
+.zed/
+README1.md

@@ -1,0 +1,5 @@
+NOW 0
+SOA example.com 300
+SOA sub.example.com 60
+NEG x.sub.example.com A NODATA
+QUERY x.sub.example.com A

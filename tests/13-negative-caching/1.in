@@ -1,0 +1,4 @@
+NOW 0
+SOA example.com 60
+NEG missing.example.com A NXDOMAIN
+QUERY missing.example.com A

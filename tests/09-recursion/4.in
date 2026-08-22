@@ -1,0 +1,5 @@
+NS . root
+NS org a.org
+RECORD root org NS a.org
+RECORD a.org foo.org A 9.9.9.9
+RESOLVE foo.org A

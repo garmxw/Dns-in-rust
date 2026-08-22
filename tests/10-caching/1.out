@@ -1,0 +1,9 @@
+OK
+OK
+www.example.com 300 IN A 192.0.2.1
+OK
+www.example.com 200 IN A 192.0.2.1
+OK
+www.example.com 0 IN A 192.0.2.1
+OK
+MISS

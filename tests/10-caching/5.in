@@ -1,0 +1,4 @@
+NOW 0
+STORE foo A 5 8.8.8.8
+NOW 6
+GET foo A

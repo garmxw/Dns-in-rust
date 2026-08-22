@@ -1,0 +1,2 @@
+RECORD www.example.com CNAME 300 cdn.x
+LOOKUP www.example.com CNAME

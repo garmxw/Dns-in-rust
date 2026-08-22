@@ -1,0 +1,4 @@
+OK
+OK
+ASK root for example.com A
+RESULT example.com IN A 1.2.3.4

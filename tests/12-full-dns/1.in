@@ -1,0 +1,8 @@
+NOW 1000
+RECORD www.example.com CNAME 60 cdn.example.net
+RECORD cdn.example.net A 300 192.0.2.1
+QUERY www.example.com A
+QUERY www.example.com A
+NOW 1061
+QUERY www.example.com A
+STATS

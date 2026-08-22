@@ -1,0 +1,62 @@
+{
+  "course": "build-dns-server",
+  "language": "rust",
+  "language_id": 73,
+  "entrypoint": "main.rs",
+  "version": 1,
+  "content_hash": "2e6907a3f3d5bc88",
+  "lessons": [
+    {
+      "slug": "dns-header",
+      "tests_hash": "f81f44fe51cf"
+    },
+    {
+      "slug": "dns-name",
+      "tests_hash": "81b42f555c22"
+    },
+    {
+      "slug": "dns-question",
+      "tests_hash": "77514979bb87"
+    },
+    {
+      "slug": "name-compression-decoder",
+      "tests_hash": "e692da37e2e8"
+    },
+    {
+      "slug": "dns-rrs",
+      "tests_hash": "52c6c98c66ed"
+    },
+    {
+      "slug": "zone-file",
+      "tests_hash": "15661cc4283f"
+    },
+    {
+      "slug": "cname-chase",
+      "tests_hash": "9e3eaca58f4f"
+    },
+    {
+      "slug": "mx-srv-soa-rdata",
+      "tests_hash": "4f0c20dcdfa1"
+    },
+    {
+      "slug": "recursion",
+      "tests_hash": "66b0ae1ae0e2"
+    },
+    {
+      "slug": "caching",
+      "tests_hash": "0de6284e2c8b"
+    },
+    {
+      "slug": "edns",
+      "tests_hash": "b657cd082dbb"
+    },
+    {
+      "slug": "full-dns",
+      "tests_hash": "9afd847b82e9"
+    },
+    {
+      "slug": "negative-caching",
+      "tests_hash": "d9c2b9ae99da"
+    }
+  ]
+}

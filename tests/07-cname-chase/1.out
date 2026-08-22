@@ -1,0 +1,4 @@
+OK
+OK
+www.example.com 300 IN CNAME cdn.fastly.net
+cdn.fastly.net 60 IN A 151.101.0.5

@@ -1,0 +1,3 @@
+RECORD www.example.com CNAME 300 cdn.fastly.net
+RECORD cdn.fastly.net A 60 151.101.0.5
+LOOKUP www.example.com A

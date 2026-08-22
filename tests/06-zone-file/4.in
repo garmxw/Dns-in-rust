@@ -1,0 +1,3 @@
+RECORD example.com A 300 192.0.2.1
+RECORD example.com A 300 192.0.2.2
+LOOKUP example.com A

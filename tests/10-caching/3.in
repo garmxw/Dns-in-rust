@@ -1,0 +1,4 @@
+NOW 100
+STORE x A 60 1.1.1.1
+STORE x A 60 2.2.2.2
+GET x A

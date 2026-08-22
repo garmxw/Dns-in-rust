@@ -1,0 +1,10 @@
+OK
+OK
+OK
+OK
+OK
+OK
+ASK a.root for www.example.com A
+ASK a.gtld for www.example.com A
+ASK ns1.example for www.example.com A
+RESULT www.example.com IN A 192.0.2.1

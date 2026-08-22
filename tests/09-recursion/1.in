@@ -1,0 +1,7 @@
+NS . a.root
+NS com a.gtld
+NS example.com ns1.example
+RECORD a.root com NS a.gtld
+RECORD a.gtld example.com NS ns1.example
+RECORD ns1.example www.example.com A 192.0.2.1
+RESOLVE www.example.com A

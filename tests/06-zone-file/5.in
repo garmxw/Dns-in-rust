@@ -1,0 +1,3 @@
+RECORD example.com NS 86400 ns1.example.com
+RECORD example.com A 300 192.0.2.1
+LOOKUP example.com NS

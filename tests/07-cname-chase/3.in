@@ -1,0 +1,2 @@
+RECORD www.example.com CNAME 300 elsewhere.net
+LOOKUP www.example.com A

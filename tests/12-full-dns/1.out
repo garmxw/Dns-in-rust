@@ -1,0 +1,14 @@
+OK
+OK
+OK
+MISS
+www.example.com 60 IN CNAME cdn.example.net
+cdn.example.net 300 IN A 192.0.2.1
+HIT
+www.example.com 60 IN CNAME cdn.example.net
+cdn.example.net 300 IN A 192.0.2.1
+OK
+MISS
+www.example.com 60 IN CNAME cdn.example.net
+cdn.example.net 300 IN A 192.0.2.1
+cache_hits=1 cache_misses=2

@@ -1,0 +1,7 @@
+OK
+OK
+OK
+OK
+ASK root for foo.org A
+ASK a.org for foo.org A
+RESULT foo.org IN A 9.9.9.9

@@ -1,0 +1,8 @@
+OK
+OK
+MISS
+x 10 IN A 1.2.3.4
+OK
+MISS
+x 10 IN A 1.2.3.4
+cache_hits=0 cache_misses=2
