@@ -2,7 +2,7 @@
   "course": "build-dns-server",
   "language": "rust",
   "language_id": 73,
-  "entrypoint": "main.rs",
+  "entrypoint": "src/main.rs",
   "version": 1,
   "content_hash": "2e6907a3f3d5bc88",
   "lessons": [

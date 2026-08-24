@@ -5,7 +5,7 @@
 #   ./run_tests.sh 03     run only tests/03-*'s tests
 set -u
 LANG_SLUG="rust"
-ENTRY="main.rs"
+ENTRY="./src/main.rs"
 FILTER="${1:-}"
 # Test dirs are zero-padded (01-, 02-, …) — accept "./run_tests.sh 3" too.
 case "$FILTER" in [1-9]) FILTER="0$FILTER" ;; esac
